@@ -15,7 +15,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
    - Instala GlassFish siguiendo las instrucciones proporcionadas.
 
 3. **Java 21 Legacy:**
-   - Descarga e instala Java SE Development Kit 8 desde [aquí](https://www.oracle.com/java/technologies/downloads/).
+   - Descarga e instala Java SE Development Kit 21 desde [aquí](https://www.oracle.com/java/technologies/downloads/).
 
 ### Configuración del Proyecto 🚀
 
