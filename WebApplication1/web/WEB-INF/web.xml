@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+         version="6.0">
+    
+    <welcome-file-list>
+        <welcome-file>/jsp/index.jsp</welcome-file>
+    </welcome-file-list>
+    
+    <servlet>
+        <servlet-name>EditServlet</servlet-name>
+        <jsp-file>jsp/edit.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EditServlet</servlet-name>
+        <url-pattern>/edit-pending</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>DeleteServlet</servlet-name>
+        <jsp-file>jsp/delete.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteServlet</servlet-name>
+        <url-pattern>/delete-pending</url-pattern>
+    </servlet-mapping>
+
+</web-app>
+
