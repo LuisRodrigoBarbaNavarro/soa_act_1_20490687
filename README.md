@@ -7,7 +7,7 @@
 Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 
 1. **NetBeans 20:** 
-   - Descarga NetBeans 20 desde [aquí](https://netbeans.apache.org/download/nb200/nb200.html).
+   - Descarga NetBeans 20 desde [aquí](https://netbeans.apache.org/front/main/download/nb20/).
    - Sigue las instrucciones de instalación para tu sistema operativo.
 
 2. **GlassFish 7.0.2:**
