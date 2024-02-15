@@ -30,7 +30,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 3. **Clona el Proyecto:**
    - Clona este repositorio a tu máquina local usando Git.
      ```bash
-     git clone https://github.com/tu-usuario/tu-proyecto.git
+     git clone https://github.com/LuisRodrigoBarbaNavarro/soa_act_1_20490687.git
      ```
 
 4. **Abre el Proyecto en NetBeans:**
