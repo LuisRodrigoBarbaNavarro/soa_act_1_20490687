@@ -14,8 +14,8 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
    - Descarga GlassFish 7.0.2 desde [aquí](https://javaee.github.io/glassfish/download).
    - Instala GlassFish siguiendo las instrucciones proporcionadas.
 
-3. **Java 8:**
-   - Descarga e instala Java SE Development Kit 8 desde [aquí](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html).
+3. **Java 21 Legacy:**
+   - Descarga e instala Java SE Development Kit 8 desde [aquí](https://www.oracle.com/java/technologies/downloads/).
 
 ### Configuración del Proyecto 🚀
 
